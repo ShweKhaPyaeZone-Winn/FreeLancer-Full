@@ -1,0 +1,33 @@
+
+
+/* .logo-title{
+    display: flex;
+    align-items: center;
+} */
+
+.footer-logo{
+    width: 32px;
+    height: 32px;  
+}
+
+.footer-title{
+    color: #CF9FFF;
+    font-size: 12px;
+    font-family: 'Font';
+}
+
+.footer-p{
+    font-size: 15px;
+    color: #CF9FFF;
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+}
+
+.footer-icon3{
+    color: #CF9FFF;
+    font-size: 16px;
+    /* margin-top: 25px; */
+    display: flex;
+    gap: 1rem;
+}

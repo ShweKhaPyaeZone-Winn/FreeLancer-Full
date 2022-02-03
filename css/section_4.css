@@ -1,0 +1,33 @@
+.gray_container{
+    background-image: url("/image/working.jpg");
+    background-size: 900px;
+    background-repeat: no-repeat;
+    height: 55vh;
+    display: flex;
+    justify-content: flex-end;
+    
+}
+
+.gray{
+    width: 35%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.myvideo{
+    position: absolute;
+    object-fit: cover;
+    width: 35%;
+    height: 55vh;
+}
+
+.gray_p{
+    color: black;
+}
+.p4{
+    font-size: 16px;
+}
+.p5{
+    font-size: 10px;
+}
+
